@@ -1,5 +1,5 @@
 
-from getkey import getkey, keys
+
 import time 
 
 def get_choice_with_arrows(options):
