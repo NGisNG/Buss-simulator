@@ -1,4 +1,4 @@
-import replit
+
 from getkey import getkey, keys
 import time 
 
